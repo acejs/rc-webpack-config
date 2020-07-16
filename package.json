@@ -1,7 +1,7 @@
 {
-  "name": "@tuya-fe/reactc-webpack-config",
+  "name": "rc-webpack-config",
   "version": "1.0.0",
-  "description": "react component webpack configuration",
+  "description": "react component webpack config",
   "main": "./dist/index.js",
   "scripts": {
     "dev": "webpack-dev-server --mode=development --config ./scripts/build/webpack.config.js",
@@ -9,11 +9,10 @@
     "test": "jest"
   },
   "repository": "https://registry.code.tuya-inc.top/backendComponents/reactc-webpack-config.git",
-  "author": "<xukang@tuya.com>",
+  "author": "<15380598700@163.com>",
   "license": "MIT",
   "types": "./types/index.d.ts",
   "devDependencies": {
-    "@tuya-fe/sun": "^4.0.1",
     "@types/jest": "^25.2.1",
     "@types/react": "^16.9.34",
     "@types/react-dom": "^16.9.6",

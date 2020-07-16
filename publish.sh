@@ -1,5 +1,5 @@
 #!/bin/bash
  yarn build
  npm login
- npm publish
+ npm publish --access public
  
